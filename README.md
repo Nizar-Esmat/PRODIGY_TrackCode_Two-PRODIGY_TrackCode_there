@@ -1,6 +1,14 @@
+# Tic Tac Toe Game
 
-tic-tac-toe
-<h3>is a X O game</h3>
-you can have two mode to choose <br>
-1. users can play against each <br>
-2. with AI using <b> minmax </b> alorithm
+## Overview
+This is a Tic Tac Toe game that offers both single-player mode using the Minimax algorithm and a multiplayer mode for two players.
+
+## Features
+- Single-player mode with AI (Minimax algorithm)
+- Multiplayer mode
+
+
+## Technologies
+- HTML/CSS/JavaScript
+- Minimax algorithm for AI
+
